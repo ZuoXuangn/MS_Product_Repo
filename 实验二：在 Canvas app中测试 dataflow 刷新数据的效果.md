@@ -14,3 +14,25 @@
 ![98816ba2d432a239a8edfd6dd45c71e](https://user-images.githubusercontent.com/34478391/203129535-bb1b4489-0ac1-4d0d-aca2-efce7783140e.jpg)
 
 ### 2.2 新建一个vertical gallery 来展示 "Manufacturerss" table 中的数据
+
+添加垂直库如下：
+
+![image](https://user-images.githubusercontent.com/34478391/203139316-e115d08c-57ce-4534-8df9-29f9d4b96027.png)
+
+添加文本框，修改 "Text"属性为： "总共："& CountA(Manufacturerss.Title) & "家生产商"
+
+![image](https://user-images.githubusercontent.com/34478391/203139641-138c6b63-4759-4e60-b381-b100d5d0f657.png)
+
+### 2.3 手动刷新dataflow,同时在canvas app中刷新 "Manufacturerss" table
+
+![image](https://user-images.githubusercontent.com/34478391/203139964-d7227001-cec5-4f41-aea0-6617cd24f4c0.png)
+
+![image](https://user-images.githubusercontent.com/34478391/203140074-d9fa004d-392e-4d75-80d8-848286c78edd.png)
+
+刷新之后的结果：
+
+![image](https://user-images.githubusercontent.com/34478391/203140289-239db7b3-863c-42ab-b389-7707eb529cb3.png)
+
+### 2.4 消除重复记录的说明
+
+如果刷新添加的数据和和table已有数据有重合，您可以设置 [重复检测作业] (https://learn.microsoft.com/en-us/power-platform/admin/run-bulk-system-jobs-detect-duplicate-records)来检测所有被识别为重复的记录。 然后，您可以设置 [批量删除作业] (https://learn.microsoft.com/en-us/power-platform/admin/delete-bulk-records)以根据您指定的条件删除记录。
