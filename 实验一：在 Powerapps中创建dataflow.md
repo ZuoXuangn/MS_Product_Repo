@@ -67,3 +67,7 @@
 
 ![image](https://user-images.githubusercontent.com/34478391/203118354-2345b54e-ffff-41a9-a999-165e583929f3.png)
 
+添加成功的显示页面：
+
+![image](https://user-images.githubusercontent.com/34478391/203121885-60b7f4cd-5386-4fe3-8f4a-014a92450a00.png)
+
