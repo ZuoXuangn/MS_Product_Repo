@@ -39,7 +39,7 @@
 
 ![image](https://user-images.githubusercontent.com/34478391/203114620-95f65161-4371-49c2-8c71-9565c46fbf30.png)
 
-### 1.3 创建成功以后，可以在Dataflow 和 Dataverse 下进行查看
+### 1.3 创建成功以后，可以在Dataflow 和 Dataverse 下查看
 
 创建成功以后，可以在 Dataflow 下看到 "published"状态
 
@@ -49,7 +49,23 @@
 
 ![image](https://user-images.githubusercontent.com/34478391/203116360-d267066f-0a0f-4253-9559-a68b74d24dd5.png)
 
-## 实验二 在 solution 中引用 dataflow
+### 1.4 设置 dataflow 刷新方式和频率
 
+![image](https://user-images.githubusercontent.com/34478391/203118847-e489c4b0-b560-4f53-b780-a76a18595cbc.png)
+
+选择手动刷新或者定时刷新
+
+![image](https://user-images.githubusercontent.com/34478391/203118944-7a43a0c3-fd24-499d-b573-2c00d8965628.png)
+
+![image](https://user-images.githubusercontent.com/34478391/203119003-1bd9acd3-4678-4ae6-b435-1a3f9eaa86c8.png)
+
+
+### 1.5 在 solution 中引用 dataflow
+
+目前不能直接在 solution 里面创建 dataflow，但是可以将已经现有的 dataflow 添加到 solution中
+
+![image](https://user-images.githubusercontent.com/34478391/203118260-759915d0-2561-4074-a457-5c46d74197fa.png)
+
+![image](https://user-images.githubusercontent.com/34478391/203118354-2345b54e-ffff-41a9-a999-165e583929f3.png)
 
 
