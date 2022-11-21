@@ -2,3 +2,4 @@
 
 ## 实验一： 在 Powerapps中创建dataflow
 
+## 实验二：在 Canvas app中测试 dataflow 刷新数据的效果
