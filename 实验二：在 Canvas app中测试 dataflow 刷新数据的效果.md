@@ -35,4 +35,4 @@
 
 ### 2.4 消除重复记录的说明
 
-如果刷新添加的数据和和table已有数据有重合，您可以设置 [重复检测作业] (https://learn.microsoft.com/en-us/power-platform/admin/run-bulk-system-jobs-detect-duplicate-records)来检测所有被识别为重复的记录。 然后，您可以设置 [批量删除作业] (https://learn.microsoft.com/en-us/power-platform/admin/delete-bulk-records)以根据您指定的条件删除记录。
+如果刷新添加的数据和和table已有数据有重合，您可以设置 [重复检测作业] (https://learn.microsoft.com/en-us/power-platform/admin/run-bulk-system-jobs-detect-duplicate-records) 来检测所有被识别为重复的记录。 然后，您可以设置 [批量删除作业] (https://learn.microsoft.com/en-us/power-platform/admin/delete-bulk-records) 以根据您指定的条件删除记录。
