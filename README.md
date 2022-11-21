@@ -5,7 +5,9 @@
 ### 1.1 登录Powerapps，在左栏Dataverse下选择"Dataflows"创建dataflow
 
 ![image](https://user-images.githubusercontent.com/34478391/203108488-48ed10a4-c536-4090-92e8-7515766f5be2.png)
-### 1.2 命名dataflow，如果创建standard dataflow，不用勾选 "Analytical entities only" (连接到 Azure Data Lake Storage的时候需要创建 analytical dataflow)
+### 1.2 创建并命名 standard dataflow
+
+如果创建standard dataflow，不用勾选 "Analytical entities only" (连接到 Azure Data Lake Storage的时候需要创建 analytical dataflow)
 
 补充：standard dataflow 和 analytical dataflow的区别： https://learn.microsoft.com/zh-cn/power-query/dataflows/understanding-differences-between-analytical-standard-dataflows
 
