@@ -11,11 +11,22 @@
 
 ![image](https://user-images.githubusercontent.com/34478391/203109869-db255872-6e0c-42c0-858d-a23a7db85ca2.png)
 
-选择 excel online中的数据进行读取
+选择 excel online中的数据进行读取：
 
 ![image](https://user-images.githubusercontent.com/34478391/203111052-feb64066-4a6e-4aea-adfb-32a50cc5e913.png)
 
 ![image](https://user-images.githubusercontent.com/34478391/203111143-d3236495-ba78-439e-b9e9-52bb1b7398fd.png)
 
 ![image](https://user-images.githubusercontent.com/34478391/203111218-762fa5c1-75d4-41f1-b3f7-222d57baec25.png)
+
+![1669049035462](https://user-images.githubusercontent.com/34478391/203111940-da85748e-c71c-4426-992e-1bea2f005730.jpg)
+
+选择excel文件中的table "Devices" 和 "Manufacturers"：
+
+![image](https://user-images.githubusercontent.com/34478391/203112381-824f3bcf-1c1a-4066-a191-4b658707adbd.png)
+
+![image](https://user-images.githubusercontent.com/34478391/203112805-3b7b283c-7c90-440a-aafc-02fbae95670a.png)
+
+
+
 
