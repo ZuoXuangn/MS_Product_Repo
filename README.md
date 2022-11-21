@@ -27,6 +27,27 @@
 
 ![image](https://user-images.githubusercontent.com/34478391/203112805-3b7b283c-7c90-440a-aafc-02fbae95670a.png)
 
+在dataverse中重新创建 Devices table，同时选择"Device Name"作为UPN：
+
+![image](https://user-images.githubusercontent.com/34478391/203114387-a237fc2a-3782-493c-93f4-248bffefaa28.png)
+
+在dataverse中重新创建 Manufactures table，同时选择"Title"作为UPN：
+
+![image](https://user-images.githubusercontent.com/34478391/203114531-19249510-667d-4942-9b68-400e9b1265df.png)
+
+![image](https://user-images.githubusercontent.com/34478391/203114620-95f65161-4371-49c2-8c71-9565c46fbf30.png)
+
+### 1.3 创建成功以后，可以在Dataflow 和 Dataverse 下进行查看
+
+创建成功以后，可以在 Dataflow 下看到 "published"状态
+
+![image](https://user-images.githubusercontent.com/34478391/203115458-1cbbbe27-96a4-4646-b5c3-210dc427629e.png)
+
+创建成功以后，可以在 Dataverse 下看到创建的 table
+
+![image](https://user-images.githubusercontent.com/34478391/203116360-d267066f-0a0f-4253-9559-a68b74d24dd5.png)
+
+## 实验二 在 solution 中引用 dataflow
 
 
 
